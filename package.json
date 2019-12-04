@@ -1,0 +1,22 @@
+{
+  "name": "aoc-2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "day1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beznet/AOC2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beznet/AOC2019/issues"
+  },
+  "homepage": "https://github.com/Beznet/AOC2019#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.3"
+  }
+}
